@@ -10,6 +10,8 @@ Free and open-source GRC data privacy, trust management, cybersecurity, complian
 
 [Documentation](https://www.unicis.tech/docs)
 
+[Comparison](https://www.unicis.tech/comparison) table with rest GRCs.
+
 
 ## About Us
 
@@ -34,3 +36,10 @@ Please consider sponsoring the Unicis Platform Community Edition. Together, we c
 
 [Roadmap on Unicis Feedback Portal](https://feedback.unicis.tech/?tags=roadmap) and [Changelog](https://www.unicis.tech/docs/platform/unicis-platform-changelog).
 
+## Support us
+
+> [!TIP]
+> 💙 Help us build a future GRC:
+
+- [GitHub Sponsors](https://github.com/sponsors/UnicisTech)
+- [Open Collective](https://opencollective.com/unicis-platform-ce)
