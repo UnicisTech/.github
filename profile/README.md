@@ -4,7 +4,7 @@ Unicis Platform CE: Open-source competitor to Vanta & Drata, empowering teams wi
 
 Free and open-source GRC data privacy, trust management, cybersecurity, compliance and risk management platform.
 
-[![Discord](https://img.shields.io/discord/1110270854824214589)](https://discord.com/invite/8TwyeD97HD)
+![Discord](https://img.shields.io/discord/1110270854824214589?style=social&logo=discord&link=https%3A%2F%2Fdiscord.com%2Finvite%2F8TwyeD97HD)
 
 [Website](https://www.unicis.tech)
 
