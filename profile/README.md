@@ -33,7 +33,7 @@ Please consider sponsoring the Unicis Platform Community Edition. Together, we c
 ## Roadmap
 
 > [!CAUTION]
-> This work is in progress, [BETA version](https://www.unicis.tech/docs/platform/unicis-platform-changelog#security-2024-25-08).
+> This work is in progress, [BETA version](https://www.unicis.tech/docs/platform/unicis-platform-changelog#security-2024-25-08) ![GitHub Tag](https://img.shields.io/github/v/tag/UnicisTech/unicis-platform-ce).
 
 [Roadmap on Unicis Feedback Portal](https://feedback.unicis.tech/?tags=roadmap) and [Changelog](https://www.unicis.tech/docs/platform/unicis-platform-changelog).
 
@@ -42,8 +42,8 @@ Please consider sponsoring the Unicis Platform Community Edition. Together, we c
 > [!TIP]
 > 💙 Help us build a future GRC:
 
-- [GitHub Sponsors](https://github.com/sponsors/UnicisTech)
-- [Open Collective](https://opencollective.com/unicis-platform-ce)
+- [GitHub Sponsors](https://github.com/sponsors/UnicisTech) ![GitHub Sponsors](https://img.shields.io/github/sponsors/UnicisTech) 
+- [Open Collective](https://opencollective.com/unicis-platform-ce) ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/unicis-platform-ce)
 
 ## Star History
 
