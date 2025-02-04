@@ -33,9 +33,10 @@ Please consider sponsoring the Unicis Platform Community Edition. Together, we c
 ## Roadmap
 
 > [!CAUTION]
-> This work is in progress, [BETA version](https://www.unicis.tech/docs/platform/unicis-platform-changelog#security-2024-25-08) ![GitHub Tag](https://img.shields.io/github/v/tag/UnicisTech/unicis-platform-ce).
+> This work is in progress, [Early Access release](https://www.unicis.tech/docs/platform/unicis-platform-changelog#early-access-2025-02-02) ![GitHub Tag](https://img.shields.io/github/v/tag/UnicisTech/unicis-platform-ce).
 
-[Roadmap on Unicis Feedback Portal](https://feedback.unicis.tech/?tags=roadmap) and [Changelog](https://www.unicis.tech/docs/platform/unicis-platform-changelog).
+- [Roadmap on Unicis Feedback Portal](https://feedback.unicis.tech/?tags=roadmap)
+- [Changelog](https://www.unicis.tech/docs/platform/unicis-platform-changelog).
 
 ## Support us
 
